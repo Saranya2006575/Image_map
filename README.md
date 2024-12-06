@@ -99,10 +99,14 @@ garland.html
 # OUTPut
 
 
-![alt text](<Screenshot 2024-12-05 210902.png>)
-![alt text](<Screenshot 2024-12-05 210930.png>)
-![alt text](<Screenshot 2024-12-05 210942.png>)
-![alt text](<Screenshot 2024-12-05 210956.png>)
+![Screenshot 2024-12-05 210902](https://github.com/user-attachments/assets/ee5e8df9-594b-4301-9475-c8176fa6ee2e)
+
+![Screenshot 2024-12-05 210930](https://github.com/user-attachments/assets/9914a30e-4c12-4487-aa76-606dd606b624)
+
+![Screenshot 2024-12-05 210942](https://github.com/user-attachments/assets/6dc79fac-7403-4928-85d8-7f89b725d025)
+
+![Screenshot 2024-12-05 210956](https://github.com/user-attachments/assets/491b3c31-3b65-4621-af9f-87104a9d5021)
+
 
 
 
